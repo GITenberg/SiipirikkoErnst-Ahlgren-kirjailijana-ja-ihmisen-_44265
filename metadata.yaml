@@ -1,0 +1,34 @@
+_repo: SiipirikkoErnst-Ahlgren-kirjailijana-ja-ihmisen-_44265
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Krohn, Helmi
+    aliases:
+    - Helmi Setälä
+    - Setälä, Helmi
+    - Setala, Helmi
+    birthdate: 1871
+    deathdate: 1967
+    gutenberg_agent_id: '31724'
+    url: http://www.gutenberg.org/2009/agents/31724
+description: ''
+gutenberg_issued: '2013-11-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44265'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Benedictsson, Victoria, 1850-1888'
+- !lcc 'PT'
+tableOfContents: Alkusanat -- Lapsuusvuodet -- Avioliitto -- Ensimäinen alku -- Ernst
+  Ahlgren -- Axel Lundegård -- "Pengar" -- Uusia siteitä -- Väljemmillä vesillä --
+  Epätoivon partaalla -- "Fru Marianne" -- Ernst Ahlgren novellinkirjoittajana --
+  Kirjallisia otteluita -- Viimeiset vaiheet -- "Implora pace" -- Viittauksia -- Lähteitä.
+title: 'Siipirikko: Ernst Ahlgren kirjailijana ja ihmisenä'
+url: http://www.gutenberg.org/ebooks/44265
